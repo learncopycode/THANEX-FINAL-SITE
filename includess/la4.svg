@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 281 249">
+  <defs><style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&amp;display=swap');
+        </style>
+    <filter id="Rectangle_400" x="0" y="0" width="281" height="249" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#95b2bb"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_670" data-name="Group 670" transform="translate(-1374 -9015)">
+    <g transform="matrix(1, 0, 0, 1, 1374, 9015)" filter="url(#Rectangle_400)">
+      <path id="Rectangle_400-2" data-name="Rectangle 400" d="M2,0H227a36,36,0,0,1,36,36V195a36,36,0,0,1-36,36H36A36,36,0,0,1,0,195V2A2,2,0,0,1,2,0Z" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Group_637" data-name="Group 637" transform="translate(1409 9064)">
+      <text style="text-align: center;font-weight:400; font-family:Roboto Condensed" id="Our_own_protocol_to_further_ensure_all_credentials_are_checked_and_vetted" data-name="Our own protocol to further
+ensure all credentials
+are checked and vetted" transform="translate(104 137.273)" fill="#0054a5" font-size="15" font-family="RobotoCondensed-Regular, Roboto"><tspan x="-103.81" y="0">OUR OWN PROTOCOL TO FURTHER</tspan><tspan x="-81.057" y="17">ENSURE ALL CREDENTIALS</tspan><tspan x="-82.024" y="34">ARE CHECKED AND VETTED</tspan></text>
+      <g id="list" transform="translate(56.494)">
+        <path id="Path_933" data-name="Path 933" d="M80.8,152.206H11.872A2.872,2.872,0,0,1,9,149.334V69.872A2.872,2.872,0,0,1,11.872,67H80.8a2.872,2.872,0,0,1,2.872,2.872v79.462A2.872,2.872,0,0,1,80.8,152.206Z" transform="translate(-9 -54.171)" fill="#57a4ff"/>
+        <path id="Path_934" data-name="Path 934" d="M238.465,67H204v85.206h34.465a2.872,2.872,0,0,0,2.872-2.872V69.872A2.872,2.872,0,0,0,238.465,67Z" transform="translate(-166.663 -54.171)" fill="#246dff"/>
+        <path id="Path_935" data-name="Path 935" d="M39,97h63.186v73.717H39Z" transform="translate(-33.256 -78.427)" fill="#f4f1f1"/>
+        <path id="Path_936" data-name="Path 936" d="M204,97h31.593v73.717H204Z" transform="translate(-166.663 -78.427)" fill="#dad5d3"/>
+        <g id="Group_239" data-name="Group 239" transform="translate(21.062 32.551)">
+          <path id="Path_937" data-name="Path 937" d="M126.659,185.318a2.862,2.862,0,0,1-2.031-.841l-4.787-4.787a2.872,2.872,0,1,1,4.062-4.062l2.756,2.756,7.543-7.543a2.872,2.872,0,0,1,4.062,4.062l-9.574,9.574A2.863,2.863,0,0,1,126.659,185.318Z" transform="translate(-119 -170)" fill="#57a4ff"/>
+          <path id="Path_938" data-name="Path 938" d="M126.659,282.818a2.862,2.862,0,0,1-2.031-.841l-4.787-4.787a2.872,2.872,0,1,1,4.062-4.062l2.756,2.756,7.543-7.543a2.872,2.872,0,1,1,4.062,4.062l-9.574,9.574A2.863,2.863,0,0,1,126.659,282.818Z" transform="translate(-119 -248.832)" fill="#57a4ff"/>
+          <path id="Path_939" data-name="Path 939" d="M126.659,380.318a2.862,2.862,0,0,1-2.031-.841l-4.787-4.787a2.872,2.872,0,1,1,4.062-4.062l2.756,2.756,7.543-7.543a2.872,2.872,0,1,1,4.062,4.062l-9.574,9.574A2.863,2.863,0,0,1,126.659,380.318Z" transform="translate(-119 -327.663)" fill="#57a4ff"/>
+        </g>
+        <path id="Path_940" data-name="Path 940" d="M206.989,170.852a2.869,2.869,0,0,0-2.988-.674V177.9l2.988-2.988A2.872,2.872,0,0,0,206.989,170.852Z" transform="translate(-166.663 -137.46)" fill="#08475e"/>
+        <path id="Path_941" data-name="Path 941" d="M206.989,268.352a2.869,2.869,0,0,0-2.988-.674V275.4l2.988-2.988A2.872,2.872,0,0,0,206.989,268.352Z" transform="translate(-166.663 -216.292)" fill="#08475e"/>
+        <path id="Path_942" data-name="Path 942" d="M206.989,365.852a2.869,2.869,0,0,0-2.988-.674V372.9l2.988-2.988A2.872,2.872,0,0,0,206.989,365.852Z" transform="translate(-166.663 -295.123)" fill="#08475e"/>
+        <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="2.921" cy="2.921" rx="2.921" ry="2.921" transform="translate(11.66 41.562)" fill="#57a4ff"/>
+        <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="2.872" cy="2.872" rx="2.872" ry="2.872" transform="translate(11.488 59.836)" fill="#57a4ff"/>
+        <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="2.921" cy="2.921" rx="2.921" ry="2.921" transform="translate(5.66 95.283)" fill="#57a4ff"/>
+        <path id="Path_943" data-name="Path 943" d="M142.508,25.275H111.872A2.872,2.872,0,0,1,109,22.4V9a2.872,2.872,0,0,1,2.872-2.872h4.787V2.872A2.872,2.872,0,0,1,119.531,0h15.318a2.872,2.872,0,0,1,2.872,2.872V6.127h4.787A2.872,2.872,0,0,1,145.38,9V22.4A2.872,2.872,0,0,1,142.508,25.275Z" transform="translate(-89.853)" fill="#57a4ff"/>
+        <path id="Path_944" data-name="Path 944" d="M219.318,6.127h-4.787V2.872A2.872,2.872,0,0,0,211.659,0H204V25.275h15.318A2.872,2.872,0,0,0,222.19,22.4V9A2.872,2.872,0,0,0,219.318,6.127Z" transform="translate(-166.663)" fill="#5aaae7"/>
+        <path id="Path_945" data-name="Path 945" d="M249.6,350.785a2.872,2.872,0,0,1-2.615-4.061l6.77-14.893a2.872,2.872,0,0,1,4.646-.842l8.124,8.124a2.872,2.872,0,0,1-.842,4.646l-14.893,6.77A2.872,2.872,0,0,1,249.6,350.785Z" transform="translate(-201.208 -266.933)" fill="#a8ddfd"/>
+        <path id="Path_946" data-name="Path 946" d="M266.013,355.754,251.12,370.647a2.871,2.871,0,0,0,3.219.584l14.893-6.77a2.872,2.872,0,0,0,.842-4.646Z" transform="translate(-204.76 -287.637)" fill="#57a4ff"/>
+        <path id="Path_947" data-name="Path 947" d="M286.475,210.929,314.908,182.5a2.872,2.872,0,0,1,4.062,0l8.123,8.123a2.872,2.872,0,0,1,0,4.062L298.66,223.114Z" transform="translate(-233.346 -146.873)" fill="#57a4ff"/>
+        <path id="Path_948" data-name="Path 948" d="M348.757,207.261l-30.463,30.463,6.093,6.093,28.432-28.432a2.872,2.872,0,0,0,0-4.062Z" transform="translate(-259.072 -167.576)" fill="#1664ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
