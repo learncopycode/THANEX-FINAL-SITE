@@ -1,8 +1,15 @@
 .body, body, *, tspan, h1, p{
 
-    font-family:"Roboto Condense", sans-serif;
+    font-family:
+    
+    "Roboto Condense", sans-serif;
 }
 
+
+.fp-slidesNav.fp-bottom {
+    bottom: 17px;
+    display: none!important;
+}
 
 
 .toops{
