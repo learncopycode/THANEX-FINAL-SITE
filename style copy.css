@@ -2014,23 +2014,23 @@ img.skill2 {
 }
         
 
-    #A_licensed_manpower_agency_in_ {
-        Z-INDEX: 1000;
-        filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
-        left: 13.6%;
-        top: 728.4px;
-        position: absolute;
-        overflow: visible;
-        width: 1123px;
-        white-space: nowrap;
-        text-align: left;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 22.6px;
-        color: rgba(255,255,255,1);
-        text-transform: uppercase;
-    }
+#A_licensed_manpower_agency_in_ {
+    Z-INDEX: 1000;
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 13.6%;
+    top: 60%;
+    position: absolute;
+    overflow: visible;
+    width: 1123px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32.5px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
 
     
 
