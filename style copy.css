@@ -442,7 +442,18 @@ body, span, tspan, h1 {
     position: relative;
     height: 860px;
     overflow: scroll;
+
+    overflow: -moz-scrollbars-none;
+    /* this will hide the scrollbar in internet explorers */
+    -ms-overflow-style: none;
 }
+
+.rollitflex ::-webkit-scrollbar {
+    width: 0px!important;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+
 
 
 .flex-item2>img {
