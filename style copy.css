@@ -2195,14 +2195,14 @@ margin:auto!important;
 
 }
 
- .col-xsm-12>img {
+.col-xsm-12>img {
     width: 70%;
     top: 50%;
     margin-top: -15%;
     overflow: hidden;
     position: relative;
-    left: 50%;
-    top: 201px;
+    left: 20%;
+    top: 301px;
     margin-left: -29%;
 }
   .container-fluid {
