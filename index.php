@@ -589,7 +589,7 @@
 								</div>
 								<div id="p3">
 
-            							<div  class="followMeBar">
+            							<div  class="followMeBar toplo">
 									<div class="text">
 
 												
@@ -826,7 +826,7 @@
 
 											</div>
 										</div>
-										<div class="fp-auto-height">
+										<div class="">
 										<div class="rollitflex " id="scro">
 
 													<div class="la1 flex-item2">

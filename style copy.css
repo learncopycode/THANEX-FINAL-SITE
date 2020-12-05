@@ -4,6 +4,10 @@
     
     "Roboto Condense", sans-serif;
 }
+.page000{
+    top: 100px;position: relative;
+}
+
 .who {
     width: 73%;
     margin: auto;
@@ -633,7 +637,7 @@ body, span, tspan, h1 {
 
 }
 .rollitflex {
-    top: 210px;
+    top: 130px;
     display: flex;
     width: 80%;
     justify-content: center;
@@ -642,9 +646,7 @@ body, span, tspan, h1 {
     position: relative;
     height: 860px;
     overflow: scroll;
-
     overflow: -moz-scrollbars-none;
-    /* this will hide the scrollbar in internet explorers */
     -ms-overflow-style: none;
 }
 
@@ -762,9 +764,7 @@ body, span, tspan, h1 {
     background-position: fixed;
 }
 
-.page000 {
-    top: -10px;
-}
+
 .bgg {
     top: 0;
     z-index: 0;
@@ -1226,6 +1226,12 @@ img.skill2 {
 }
 
   @media only screen and (max-width:1999px){
+    .followMeBar.toplo {
+        top: 30px;
+    }
+    .poltu {
+        top: 100px;
+    }
 
     #p3 p {
         font-size: 38.7px;
@@ -1366,12 +1372,14 @@ img.skill2 {
     width: 360px;
     z-index: 10;
 }
-    .bgg {
+
+
+.bgg {
     top: 0;
     z-index: 0;
     /* mix-blend-mode: luminosity; */
-    height: 122vh;
-    background: url('BG.jpg') top right / cover;
+    height: 100vh;
+    background: url(BG.jpg) top right / cover;
     background-position: fixed;
     position: relative;
 }
@@ -1456,6 +1464,32 @@ height: 764.5px;
 
 
 @media only screen and (max-width:1699px){
+
+    .lg {
+        top: -130px;
+        position: relative;
+        right: -10px;
+    }
+    .followMeBar.toplo {
+        top: 50px;
+    }
+
+    .lefts {
+        width: 45.2%;
+        /* height: 100%; */
+        display: inline-block;
+        left: 0;
+        position: relative;
+        /* top: inherit; */
+        top: -220px;
+    }
+
+    .rights {
+        display: inline-block;
+        width: 39.3%;
+        position: relative;
+        left: 0;
+    }
 
   div#p4 {
     padding-top: 50px;
@@ -1705,6 +1739,7 @@ img.skill {
     .rollitflex {
         display: flex;
         width: 81.9%;
+        left: -20px;
         top: 90px;
         justify-content: center;
         flex-flow: row wrap;
@@ -1748,6 +1783,63 @@ img.skill {
 
 
 @media only screen and (max-width:1499px){
+    .imge3 {
+        /* margin: auto; */
+        width: 70%;
+        align-items: center;
+        /* display: flex; */
+        position: relative;
+        left: 50%;
+        margin-left: -35.1%;
+        /* justify-content: center; */
+        align-content: center;
+        /* flex-direction: column; */
+        height: 68.7vh;
+    }
+    div#p40 {
+        position: relative;
+        top: 11.2px;
+    }
+
+    .imge2 {
+        /* margin: auto; */
+        width: 70%;
+        align-items: center;
+        /* display: flex; */
+        position: relative;
+        left: 50%;
+        margin-left: -35.1%;
+        /* justify-content: center; */
+        align-content: center;
+        /* flex-direction: column; */
+        height: 80.2vh;
+    }
+
+    .imge3 {
+        /* margin: auto; */
+        width: 70%;
+        align-items: center;
+        /* display: flex; */
+        position: relative;
+        left: 50%;
+        margin-left: -35.1%;
+        /* justify-content: center; */
+        align-content: center;
+        /* flex-direction: column; */
+        height: 68.5vh;
+    }
+    .lefts {
+        width: 52.2%;
+        /* height: 100%; */
+        display: inline-block;
+        left: 0;
+        position: relative;
+        /* top: inherit; */
+        top: -220px;
+    }
+    form {
+        width: 480px;
+    }
 
     .imge3 {
         /* margin: auto; */
@@ -1837,7 +1929,11 @@ width: 210px;
 }
 }
 
-@media only screen and (max-width:1440px){
+@media only screen and (max-width:1450px){
+    #p21 {
+        top: 10px;
+        position: relative;
+    }
 
     .imge2 {
         /* margin: auto; */
@@ -1905,33 +2001,8 @@ width: 210px;
 
 @media only screen and (max-width:1399px){
 
-    .imge2 {
-        /* margin: auto; */
-        width: 70%;
-        align-items: center;
-        /* display: flex; */
-        position: relative;
-        left: 50%;
-        margin-left: -35.1%;
-        /* justify-content: center; */
-        align-content: center;
-        /* flex-direction: column; */
-        height: 71.7vh;
-    }
+    
 
-    .imge3 {
-        /* margin: auto; */
-        width: 70%;
-        align-items: center;
-        /* display: flex; */
-        position: relative;
-        left: 50%;
-        margin-left: -35.1%;
-        /* justify-content: center; */
-        align-content: center;
-        /* flex-direction: column; */
-        height: 75vh;
-    }
     
     .p3 {
     margin-top: -50px;
@@ -1939,10 +2010,7 @@ width: 210px;
 .p33 {
     margin-top: 40px;
 }
-div#p40 {
-    position: relative;
-    top: 40px;
-}
+
     div#p4 {
         position: relative;
         top: 10px;
@@ -2011,6 +2079,23 @@ img.skill2 {
 
 
 @media only screen and (max-width:1299px){
+    
+    .poltu {
+    top: 101.7px;
+}
+    
+    form {
+        width: 414.3px;
+    }
+    .lefts {
+        width: 55.2%;
+        /* height: 100%; */
+        display: inline-block;
+        left: 0;
+        position: relative;
+        /* top: inherit; */
+        top: -220px;
+    }
 
   #p3 p {
     font-size: 25.1px;
@@ -2285,6 +2370,80 @@ div#p20 {
 
 
 @media only screen and (max-width:1099px){
+    .rollitflex {
+        top: 100px;
+        display: flex;
+        width: 80%;
+        justify-content: center;
+        flex-flow: row wrap;
+        margin: auto;
+        position: relative;
+        height: 1070px;
+        overflow: scroll;
+    }
+
+    div#p4 {
+        position: relative;
+        top: -40px;
+    }
+
+    .lefts {
+        width: 51.7%;
+        /* height: 100%; */
+        display: block;
+        left: 20px;
+        position: relative;
+        /* top: inherit; */
+        top: 30px;
+        margin-top: 42px;
+    }
+    form {
+        width: 414.3px;
+    }
+
+    .lg {
+        top: -20px;
+        left: 31px;
+        position: relative;
+    }
+    .fp-controlArrow.fp-prev {
+        left: 12%;
+        width: 0;
+        border-width: 15px 20px 15px 0;
+        border-color: transparent #3D66AA transparent transparent;
+    }
+    .fp-controlArrow.fp-next {
+        right: 12%;
+        border-width: 15px 0 15px 20px;
+        border-color: transparent transparent transparent #3D66AA;
+    }
+    .imge2 {
+        /* margin: auto; */
+        width: 70%;
+        align-items: center;
+        /* display: flex; */
+        position: relative;
+        left: 50%;
+        margin-left: -35.1%;
+        /* justify-content: center; */
+        align-content: center;
+        /* flex-direction: column; */
+        height: 86.5vh;
+    }
+
+    .imge3 {
+        /* margin: auto; */
+        width: 70%;
+        align-items: center;
+        /* display: flex; */
+        position: relative;
+        left: 50%;
+        margin-left: -35.1%;
+        /* justify-content: center; */
+        align-content: center;
+        /* flex-direction: column; */
+        height: 82.9vh;
+    }
     
     
 
@@ -2335,6 +2494,9 @@ div#p20 {
     text-transform: uppercase;
 }
 
+.poltu {
+    top: 41.7px;
+}
     
 
     .flei {
@@ -2361,10 +2523,7 @@ div#p20 {
         height: 100vh;
     }
 
-    div#p4 {
-        position: relative;
-        top: 40px;
-    }
+   
      div#p40 {
         position: relative;
         top: 40px;
@@ -2714,6 +2873,8 @@ margin:auto!important;
             left: -140px;
             width: 260px;
         }
+
+        
      
       }
 
@@ -2734,10 +2895,12 @@ margin:auto!important;
     }
 
     @media only screen and  (min-width:2400px){ 
+        
     
     
     
         .cardholder2{margin-top: 41.5px;}
+        
     
     
     }
